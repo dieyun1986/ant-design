@@ -26,8 +26,8 @@ const treeData = [
         value: '0-0-1',
       },
       {
-        title: 'Child Node2',
-        value: '0-0-2',
+        title: 'Child Node3',
+        value: '0-0-1',
       },
     ],
   },
